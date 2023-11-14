@@ -1,0 +1,29 @@
+body {background-color:rgba(139, 0, 35, 0.562);}
+p{color: beige;
+font-size: 30px;}
+h1{color: beige;
+    font-family: "Josefin Sans";
+font-size: 150px;}
+
+h3{color: beige;
+    font-family: "Josefin Sans";
+font-size: 100px;}
+h2{color: beige;
+    font-family: "Josefin Sans";
+font-size: 100px;}
+.img-fox {
+    width: 100%;
+}
+.wrapper 
+{
+    width: 100%;
+}
+footer {
+    background-color: beige;
+    color: rgba(139, 0, 35, 0.562);
+    font-weight: 200;
+    font-size: 40px;
+    text-align: center;
+    border-top: rosybrown;
+    border-style: double;
+}
